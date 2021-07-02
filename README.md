@@ -3,11 +3,11 @@ This Repository is a sample of a Health System in Unity. you can use this reposi
 
 We have 3 Important Functions:
 
-Heal! <br />
+//Heal! <br />
 HealHealth();
 
-Damage! <br />
+//Damage! <br />
 HealHealth();
 
-RegenerationHealth!! || hps: 1 Health Per Second <br />
+//RegenerationHealth!! || hps: 1 Health Per Second <br />
 StartCoroutine(RegenerationHealth(1f));
