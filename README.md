@@ -9,5 +9,5 @@ HealHealth();
 Damage!
 HealHealth();
 
-//RegenerationHealth!! || hps: 1 Health Per Second
+RegenerationHealth!! || hps: 1 Health Per Second
 StartCoroutine(RegenerationHealth(1f));
